@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/upda.ico</file>
+        <file>res/btn_close.png</file>
+        <file>res/btn_max.png</file>
+        <file>res/btn_min.png</file>
+        <file>res/background.png</file>
+        <file>res/comboBox_down.png</file>
+        <file>res/comboBox_down(1).png</file>
+        <file>res/register.svg</file>
+        <file>res/register.png</file>
+        <file>res/login.svg</file>
+        <file>res/registerIcon.svg</file>
+        <file>res/emialRegister.svg</file>
+        <file>res/pwdRegister.svg</file>
+        <file>res/roleRegister.svg</file>
+        <file>res/surePwdRegister.svg</file>
+        <file>res/telephoneRegister.svg</file>
+        <file>res/usernameRegister.svg</file>
+        <file>res/backRegister.svg</file>
+        <file>res/quitRegister.svg</file>
+        <file>res/submitRegister.svg</file>
+        <file>res/registerMovie.gif</file>
+        <file>res/sure.svg</file>
+        <file>res/false.svg</file>
+    </qresource>
+</RCC>
